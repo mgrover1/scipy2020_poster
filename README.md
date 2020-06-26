@@ -19,7 +19,7 @@ Most surface data is stored in METeorological Aerodrome Reports (METARs), while 
 ## References
 
 Site locations from
-2010-2019 Weather Graphics / www.weathergraphics.com / servicedesk@weathergraphics.com / All rights reserved
+2010-2019 Weather Graphics / www.weathergraphics.com / servicedesk@weathergraphics.com
 
 May, R. M., Arms, S. C., Marsh, P., Bruning, E., Leeman, J. R., Goebbert, K., Thielen, J. E.,
     and Bruick, Z., 2020: MetPy: A Python Package for Meteorological Data.
