@@ -10,3 +10,4 @@ dependencies:
   - shapely
   - Cartopy==0.18.0
   - metpy==0.12.1
+  - wget
