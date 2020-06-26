@@ -1,8 +1,8 @@
 # MetPy's Meteorological Data Parsing Abilities: From Surface to Upper Air [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mgrover1/scipy2020_poster/master)
 ## *Submission for SciPy 2020*
 
-## Authors: [Max Grover](https://mgrover1.github.io/) and [Ryan May](https://staff.ucar.edu/users/rmay)
-
+## Authors: [Max Grover U+00B9](https://mgrover1.github.io/) and [Ryan May U+00B2](https://staff.ucar.edu/users/rmay)
+### *U+00B9 University of Illinois at Urbana-Champaign* *U+00B2 Unidata Program Center*
 ---
 
 ## Keywords
