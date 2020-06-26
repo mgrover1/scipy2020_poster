@@ -2,7 +2,7 @@
 ## *Submission for SciPy 2020*
 
 ## Authors: [Max Grover¹](https://mgrover1.github.io/) and [Ryan May²](https://staff.ucar.edu/users/rmay)
-### *¹University of Illinois at Urbana-Champaign* *²Unidata Program Center*
+#### *¹University of Illinois at Urbana-Champaign* *²Unidata Program Center*
 ---
 
 ## Keywords
