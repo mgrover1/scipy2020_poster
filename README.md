@@ -5,6 +5,9 @@
 
 ---
 
+## Keywords
+`Parsing`, `Meteorology`, `MetPy`, `Weather`, `Historical`
+
 ## Short Summary
 
 Surface and upper air observations can now be parsed using MetPy, an open-source Python library for meteorological applications, supported by Unidata. A parser for METARs can be used to read in surface data, while the TTAA parser reads in upper air data. These new tools make it easy for the user to plot surface and upper air maps which are used to analyze weather systems.
