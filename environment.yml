@@ -8,6 +8,6 @@ dependencies:
   - watermark==2.0.2
   - python-wget==3.2
   - shapely
-  - Cartopy==0.18.0
-  - metpy==0.12.0
+  - Cartopy==0.17.0
+  - metpy
   - wget
